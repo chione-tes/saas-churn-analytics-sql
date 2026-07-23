@@ -17,6 +17,8 @@ The analyses are designed to simulate real-world business questions commonly add
 
 This project answers key business questions across multiple functional areas:
 
+## I have added screenshots for all the queries along with their outputs
+
 ### Customer Acquisition Analytics
 
 - Identify the highest-performing referral sources.
